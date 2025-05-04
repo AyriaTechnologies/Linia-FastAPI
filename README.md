@@ -46,10 +46,10 @@ Linia-FastAPI/
 
 ### 1. Clone the repo
 ```bash
+### 2. Create your .env file
 git clone https://github.com/AyriaTechnologies/Linia-FastAPI.git
 cd Linia-FastAPI
 
-Create your .env file
 cp .env.example .env
 
 📦 Deployment Tips
